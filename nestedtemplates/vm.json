@@ -31,7 +31,7 @@
         }
     },
     "variables": {
-        "imageId": "[resourceId(example-rg/providers/Microsoft.Compute/images/sophosxg-v18_0_mr3)]"
+        "imageId": "/subscriptions/662b5b78-ef8e-43f1-802a-7d7b9a93c0f7/resourceGroups/RG-CN-SOPHOS-TEMP/providers/Microsoft.Compute/images/sophosxg-v18_0_mr5"
     },
     "resources": [
         {
